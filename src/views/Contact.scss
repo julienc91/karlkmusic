@@ -1,0 +1,24 @@
+@import '../globals';
+
+.view.contact {
+  text-align: center;
+
+  address {
+    display: flex;
+    flex-flow: column;
+    margin: 10px auto 50px;
+    max-width: 600px;
+  }
+
+  a {
+    align-items: center;
+    color: $oil;
+    display: flex;
+    font-style: normal;
+    margin: 10px 0;
+
+    svg {
+      margin-right: 10px;
+    }
+  }
+}

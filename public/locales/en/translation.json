@@ -1,0 +1,35 @@
+{
+  "Advertisments": {
+    "title": "Advertisments"
+  },
+  "Biography": {
+    "title": "Biography",
+    "part1": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris augue diam, tincidunt nec vestibulum sed, pellentesque ac nisl.",
+    "part2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mattis ipsum id posuere facilisis. Maecenas non accumsan felis, euismod tincidunt urna.",
+    "part3": "Vivamus sit amet pulvinar enim, non scelerisque eros. Nulla nec vestibulum urna. Cras eleifend magna nisl, id vehicula sem egestas eget.",
+    "part4": "Nullam pretium felis purus, nec auctor felis tincidunt in. Etiam id est nulla. Cras gravida ligula ac tellus cursus varius. Vestibulum ultricies elit nisl, ac rutrum orci elementum vel."
+  },
+  "Contact": {
+    "title": "Contact"
+  },
+  "Discography": {
+    "title": "Discography"
+  },
+  "Global": {
+    "title": "Charles Perrono - Composer"
+  },
+  "Home": {
+    "title": "Charles Perrono",
+    "subtitle": "Composer"
+  },
+  "Menu": {
+    "advertisments": "Advertisments",
+    "biography": "Biography",
+    "contact": "Contact",
+    "discography": "Discography",
+    "home": "Home"
+  },
+  "Track": {
+    "availability": "Available on:"
+  }
+}

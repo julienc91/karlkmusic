@@ -1,0 +1,42 @@
+@import './globals';
+
+html {
+  color: $oil;
+  font-family: Lato, sans-serif;
+  font-size: 18px;
+
+  @media screen and (max-width: 640px) {
+    font-size: 14px;
+  }
+}
+
+html,
+body {
+  background-color: $white;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 1rem;
+  padding: 10px;
+}
+
+a,
+a:active,
+a:focus,
+a:hover,
+a:visited {
+  color: $oil;
+  outline: none;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}

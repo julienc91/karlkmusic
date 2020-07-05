@@ -1,0 +1,35 @@
+{
+  "Advertisments": {
+    "title": "Publicités"
+  },
+  "Biography": {
+    "title": "Biographie",
+    "part1": "Compositeur autodidacte né en 1989, c’est dans les années 2000 que je découvre la puissance émotionnelle de la musique.",
+    "part2": "Principalement inspiré par la musique électronique, c’est dans mon home studio que je commence à composer dans les années 2000. J’ai besoin d’un support pour transposer toutes ses idées et inspirations qui fusent dans ma tête, c’est alors que née «\u00A0Karlk\u00A0», un profil artistique qui m’accompagne encore aujourd’hui. Mêlant musique du monde et musique électronique, on peut le classer dans les genres musical «\u00A0Pop, Deep House, Chill\u00A0».",
+    "part3": "Comptabilisant des millions d’écoutes sur les plateformes de streaming notamment grâce aux réseaux sociaux, cela m’a permis de collaborer avec de nombreux artistes et de jouer un peu partout en Europe.",
+    "part4": "Je décide en 2020 d’élargir mon profil de compétence et de composer pour d’autres personnes. Attiré par la musique à l’image, je me forme aux codes et écritures de plusieurs registres musicaux, dans l’objectif notamment de travailler pour la télévision et le cinéma."
+  },
+  "Contact": {
+    "title": "Contact"
+  },
+  "Discography": {
+    "title": "Discographie"
+  },
+  "Global": {
+    "title": "Charles Perrono - Compositeur"
+  },
+  "Home": {
+    "title": "Charles Perrono",
+    "subtitle": "Compositeur"
+  },
+  "Menu": {
+    "advertisments": "Publicités",
+    "biography": "Biographie",
+    "contact": "Contact",
+    "discography": "Discographie",
+    "home": "Accueil"
+  },
+  "Track": {
+    "availability": "Disponible sur\u00A0:"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "advertisments": [
+    {
+      "year": 2013,
+      "title": "Mercurochrome",
+      "videoId": "B7QNuJzQo5U"
+    },
+    {
+      "year": 2012,
+      "title": "Maurice",
+      "videoId": "Pj88mqcLVBY"
+    }
+  ],
+  "discography": [
+    {
+      "year": 2016,
+      "tracks": [
+        {
+          "artist": "Karlk",
+          "links": {
+            "amazonmusic": "https://www.amazon.fr/Daydreamer-feat-GuitK-Radio-Edit/dp/B0767DMF13",
+            "applemusic": "https://music.apple.com/fr/album/daydreamer-single/1139047369?l=en",
+            "deezer": "https://www.deezer.com/fr/track/131130526",
+            "googleplay": "https://play.google.com/store/music/album/KarlK_Daydreamer_Radio_Edit?id=Birzn65q3y2foemf4ggavxqyovm",
+            "soundcloud": "https://soundcloud.com/karlkmusic/daydreamer",
+            "spotify": "https://open.spotify.com/track/5QjLud8Gx1Vl4G5ykpJBKT?si=8q3xRv3NSqKW_QZSsQGMFg",
+            "youtube": "https://www.youtube.com/watch?v=skDk-sJYSU4"
+          },
+          "thumbnail": "2016_daydreamer.jpg",
+          "title": "Daydreamer (feat. GuitK)"
+        },
+        {
+          "artist": "Karlk & Sn4tch",
+          "links": {
+            "youtube": "https://www.youtube.com/watch?v=6l-IO2O6FDc"
+          },
+          "title": "Esperanza"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "tracks": [
+        {
+          "artist": "Little May",
+          "links": {
+            "youtube": "https://www.youtube.com/watch?v=5IeV6HO_fS8"
+          },
+          "thumbnail": "2015_little_may.jpg",
+          "title": "Boardwalks (Karlk edit)"
+        },
+        {
+          "artist": "Blankets",
+          "links": {
+            "youtube": "https://www.youtube.com/watch?v=8rrlv9qvbZA"
+          },
+          "thumbnail": "2015_blankets.jpg",
+          "title": "The Hanging Tree (Karlk Remix)"
+        },
+        {
+          "artist": "Danny Darko",
+          "links": {
+            "youtube": "https://www.youtube.com/watch?v=4bO6wKWgxUg"
+          },
+          "thumbnail": "2015_danny_darko.jpg",
+          "title": "Stand Up (Karlk Remix)"
+        },
+        {
+          "artist": "Karlk",
+          "links": {
+            "youtube": "https://www.youtube.com/watch?v=LPYyux2qVVI"
+          },
+          "thumbnail": "2015_jeff.jpg",
+          "title": "Jeff (feat. GuitK)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+@import '../globals';
+
+$animation-duration: .5s;
+$arrow-height: 20px;
+$detail-height: 150px;
+$track-height: 300px;
+
+.track-list .track {
+  transition: height $animation-duration ease-in-out;
+  transition-delay: $animation-duration;
+
+  .arrow-down {
+    height: 0;
+    width: 0;
+  }
+
+  .track-detail {
+    height: 1px;
+    left: 50%;
+    margin: ($track-height + 5px) auto 0;
+    max-width: 1000px;
+    overflow: hidden;
+    padding: $arrow-height 10px 10px;
+    position: absolute;
+    transform: translateX(-50%);
+    transition: height $animation-duration ease-in-out, color $animation-duration ease-in-out, box-shadow $animation-duration ease-in-out;
+    width: calc(100% - 40px);
+  }
+
+  &:hover img,
+  &.active img {
+    box-shadow: 0 0 5px 0 $grey;
+    height: $track-height;
+    width: $track-height;
+  }
+
+  &.active {
+    height: $track-height + $detail-height;
+    transition-delay: 0s;
+
+    .arrow-down {
+      border-left: $arrow-height solid transparent;
+      border-right: $arrow-height solid transparent;
+      border-top: $arrow-height solid $light-grey;
+      z-index: 20;
+    }
+
+    .track-detail {
+      box-shadow: 0 5px 5px 1px $grey;
+      color: $oil;
+      height: $detail-height;
+      z-index: 10;
+    }
+  }
+}
+
+.track {
+  align-items: center;
+  display: flex;
+  flex-flow: column;
+  height: $track-height;
+
+  img {
+    box-shadow: 0 0 5px 0 $light-grey;
+    cursor: pointer;
+    height: $track-height - 20px;
+    transition: height .2s ease-in-out, width .2s ease-in-out, box-shadow .2s ease-in-out;
+    width: $track-height - 20px;
+  }
+}
+
+.track-detail {
+  background: $white;
+  box-shadow: 0 5px 5px 1px transparent;
+  color: $white;
+
+  .links {
+    display: flex;
+    flex-flow: row wrap;
+    list-style: none;
+    margin-top: 10px;
+
+    a {
+      color: $oil;
+      font-size: 1.5rem;
+      margin: 10px;
+    }
+  }
+}

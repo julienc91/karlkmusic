@@ -1,0 +1,63 @@
+@import '../globals';
+
+nav {
+  background-color: $white;
+  display: flex;
+  font-weight: 600;
+  justify-content: space-between;
+  margin: 0 auto 30px;
+  padding-top: 20px;
+  position: fixed;
+  text-transform: uppercase;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+
+  &::after {
+    background: linear-gradient(180deg, $white 0%, transparent 100%);
+    bottom: -50px;
+    content: '';
+    display: block;
+    height: 50px;
+    position: absolute;
+    width: 100%;
+  }
+
+  .link-home {
+    flex-shrink: 0;
+
+    img {
+      height: 40px;
+      width: 40px;
+    }
+  }
+
+  .links {
+    align-items: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    width: 100%;
+  }
+
+  .link-item {
+    list-style: none;
+    padding: 0 30px 12px;
+  }
+
+  .link {
+    &::after {
+      border-bottom: 1px solid $oil;
+      content: '';
+      display: block;
+      transform: scaleX(0);
+      transition: transform 250ms ease-in-out;
+    }
+  }
+
+  .link-item:hover .link::after,
+  .link[aria-current]::after {
+    transform: scaleX(1.1);
+  }
+
+}
