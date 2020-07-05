@@ -9,8 +9,8 @@ const App = () => (
   <Router>
     <Switch>
       <Page>
-        {Object.entries(pagesMapping).map(([path, Component]) => (
-          <Route key={path} path={path} exact>
+        {pagesMapping.map(({ Component, name, url }) => (
+          <Route key={name} path={url} exact>
             <Component />
           </Route>
         ))}

@@ -13,9 +13,9 @@ const Menu = () => {
         <img src={logo} alt={t('Menu.home')} />
       </NavLink>
       <ul className='links'>
-        {Object.entries(pagesMapping).filter(([path, _]) => path !== homepageUrl).map(([path, Component]) => (
-          <li className='link-item' key={path}>
-            <NavLink className='link' to={path} exact>{t(`Menu.${Component.name.toLowerCase()}`)}</NavLink>
+        {pagesMapping.filter(({ url }) => url !== homepageUrl).map(({ Component, name, url }) => (
+          <li className='link-item' key={name}>
+            <NavLink className='link' to={url} exact>{t(`Menu.${name}`)}</NavLink>
           </li>
         ))}
       </ul>
