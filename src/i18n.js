@@ -8,9 +8,6 @@ i18n
   .use(LanguageDetector)
   .use(initReactI18next)
   .init({
-    backend: {
-      loadPath: `${process.env.PUBLIC_URL}/locales/{{lng}}/{{ns}}.json`
-    },
     fallbackLng: 'fr',
     supportedLngs: ['fr', 'en'],
     interpolation: {
