@@ -13,7 +13,7 @@ const Menu = () => {
         <img src={logo} alt={t('Menu.home')} />
       </NavLink>
       <ul className='links'>
-        {pagesMapping.filter(({ url }) => url !== homepageUrl).map(({ Component, name, url }) => (
+        {pagesMapping.filter(({ url }) => url !== homepageUrl).map(({ name, url }) => (
           <li className='link-item' key={name}>
             <NavLink className='link' to={url} exact>{t(`Menu.${name}`)}</NavLink>
           </li>
