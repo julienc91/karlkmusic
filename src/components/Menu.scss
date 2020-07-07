@@ -54,10 +54,4 @@ nav {
       transition: transform 250ms ease-in-out;
     }
   }
-
-  .link-item:hover .link::after,
-  .link[aria-current]::after {
-    transform: scaleX(1.1);
-  }
-
 }
