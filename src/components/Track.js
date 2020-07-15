@@ -24,7 +24,7 @@ const PLATFORMS_TO_ICON = {
   spotify: faSpotify,
   youtube: faYoutube
 }
-const PLATFORM_ORDER = ['youtube', 'spotify', 'deezer', 'applemusic', 'amazonmusic', 'googleplay', 'soundcloud']
+const PLATFORM_ORDER = ['spotify', 'youtube', 'applemusic', 'soundcloud', 'deezer', 'googleplay','amazonmusic']
 
 const Track = props => {
   const { active, track, onClick } = props
