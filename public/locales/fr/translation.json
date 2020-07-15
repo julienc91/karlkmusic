@@ -20,11 +20,15 @@
     "subtitle": "Compositeur"
   },
   "Menu": {
-    "soundtracks": "Bandes-sons",
     "biography": "Biographie",
     "contact": "Contact",
     "discography": "Discographie",
-    "home": "Accueil"
+    "home": "Accueil",
+    "music_videos": "Vidéoclips",
+    "soundtracks": "Bandes-sons"
+  },
+  "MusicVideos": {
+    "title": "Vidéoclips"
   },
   "Soundtracks": {
     "title": "Bandes-sons"

@@ -23,8 +23,12 @@
     "biography": "Biography",
     "contact": "Contact",
     "discography": "Discography",
-    "soundtracks": "Soundtracks",
-    "home": "Home"
+    "home": "Home",
+    "music_videos": "Music Videos",
+    "soundtracks": "Soundtracks"
+  },
+  "MusicVideos": {
+    "title": "Music Videos"
   },
   "Soundtracks": {
     "title": "Soundtracks"

@@ -64,6 +64,13 @@
       ]
     }
   ],
+  "music_videos": [
+    {
+      "year": 2016,
+      "title": "KarlK ft. GuitK - Daydreamer",
+      "videoId": "jgtDIWLlQ0A"
+    }
+  ],
   "soundtracks": [
     {
       "year": 2015,
@@ -72,3 +79,4 @@
     }
   ]
 }
+
