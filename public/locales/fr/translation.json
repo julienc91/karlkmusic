@@ -7,7 +7,10 @@
     "part4": "Je décide en 2020 d’élargir mon profil de compétence et de composer pour d’autres personnes. Attiré par la musique à l’image, je me forme aux codes et écritures de plusieurs registres musicaux, dans l’objectif notamment de travailler pour la télévision et le cinéma."
   },
   "Contact": {
-    "title": "Contact"
+    "title": "Contact",
+    "general": "Général\u00A0:",
+    "license": "Licence/Sync\u00A0:",
+    "booking": "Booking\u00A0:"
   },
   "Discography": {
     "title": "Discographie"

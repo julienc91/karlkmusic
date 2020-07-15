@@ -4,10 +4,19 @@
   text-align: center;
 
   address {
-    display: flex;
-    flex-flow: column;
-    margin: 10px auto 50px;
+    font-style: normal;
+    margin: auto;
     max-width: 600px;
+    text-align: center;
+
+    > div {
+      align-items: center;
+      display: flex;
+      flex-flow: column;
+      justify-content: center;
+      margin: 10px auto 40px;
+      text-align: center;
+    }
   }
 
   a {

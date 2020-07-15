@@ -7,7 +7,10 @@
     "part4": "Nullam pretium felis purus, nec auctor felis tincidunt in. Etiam id est nulla. Cras gravida ligula ac tellus cursus varius. Vestibulum ultricies elit nisl, ac rutrum orci elementum vel."
   },
   "Contact": {
-    "title": "Contact"
+    "title": "Contact",
+    "general": "General:",
+    "license": "Licensing/Sync:",
+    "booking": "Booking:"
   },
   "Discography": {
     "title": "Discography"
