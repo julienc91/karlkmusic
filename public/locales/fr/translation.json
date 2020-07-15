@@ -1,7 +1,4 @@
 {
-  "Advertisments": {
-    "title": "Publicités"
-  },
   "Biography": {
     "title": "Biographie",
     "part1": "Compositeur autodidacte né en 1989, c’est dans les années 2000 que je découvre la puissance émotionnelle de la musique.",
@@ -23,11 +20,14 @@
     "subtitle": "Compositeur"
   },
   "Menu": {
-    "advertisments": "Publicités",
+    "soundtracks": "Bandes-sons",
     "biography": "Biographie",
     "contact": "Contact",
     "discography": "Discographie",
     "home": "Accueil"
+  },
+  "Soundtracks": {
+    "title": "Bandes-sons"
   },
   "Track": {
     "availability": "Disponible sur\u00A0:"

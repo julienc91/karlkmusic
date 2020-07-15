@@ -1,7 +1,4 @@
 {
-  "Advertisments": {
-    "title": "Advertisments"
-  },
   "Biography": {
     "title": "Biography",
     "part1": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris augue diam, tincidunt nec vestibulum sed, pellentesque ac nisl.",
@@ -23,11 +20,14 @@
     "subtitle": "Composer"
   },
   "Menu": {
-    "advertisments": "Advertisments",
     "biography": "Biography",
     "contact": "Contact",
     "discography": "Discography",
+    "soundtracks": "Soundtracks",
     "home": "Home"
+  },
+  "Soundtracks": {
+    "title": "Soundtracks"
   },
   "Track": {
     "availability": "Available on:"

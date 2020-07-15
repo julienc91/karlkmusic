@@ -7,7 +7,7 @@ export const TypeTrack = PropTypes.shape({
   thumbnail: PropTypes.string
 })
 
-export const TypeAdvertisment = PropTypes.shape({
+export const TypeVideo = PropTypes.shape({
   title: PropTypes.string.isRequired,
   videoId: PropTypes.string.isRequired,
   year: PropTypes.number.isRequired
