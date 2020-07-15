@@ -1,6 +1,7 @@
 import React, { Suspense } from 'react'
 import { useTranslation } from 'react-i18next'
 import PropTypes from 'prop-types'
+import Footer from './Footer'
 import Menu from './Menu'
 import Spinner from './Spinner'
 
@@ -11,6 +12,7 @@ const Page = props => {
       <Title />
       <Menu />
       {children}
+      <Footer />
     </Suspense>
   )
 }
