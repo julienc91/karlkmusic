@@ -13,7 +13,6 @@ const Footer = () => {
       <a href='https://www.youtube.com/c/Karlkmusic'><FontAwesomeIcon icon={faYoutube} /></a>
       <a href='https://soundcloud.com/karlkmusic'><FontAwesomeIcon icon={faSoundcloud} /></a>
       <a href='https://www.tiktok.com/@karlkmusic'><FontAwesomeIcon icon={faTiktok} /></a>
-      <a href='https://bit.ly/2UvJeJr'><FontAwesomeIcon icon={faInstagram} /></a>
       <a href='https://bit.ly/2GjnbBG'><FontAwesomeIcon icon={faDeezer} /></a>
     </footer>
   )
