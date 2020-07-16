@@ -15,6 +15,8 @@ const Biography = () => {
         <p>{t('Biography.part2')}</p>
         <p>{t('Biography.part3')}</p>
         <p>{t('Biography.part4')}</p>
+        <p>{t('Biography.part5')}</p>
+        <p>{t('Biography.part6')}</p>
       </article>
     </div>
   )
