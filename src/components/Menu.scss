@@ -10,7 +10,7 @@ nav {
   position: fixed;
   text-transform: uppercase;
   top: 0;
-  width: 100%;
+  width: calc(100% - 20px);
   z-index: 999;
 
   &::after {
