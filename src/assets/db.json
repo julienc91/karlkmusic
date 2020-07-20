@@ -62,6 +62,20 @@
           "title": "Jeff (feat. GuitK)"
         }
       ]
+    },
+    {
+      "year": 2013,
+      "tracks": [
+        {
+          "artist": "Karlk",
+          "links": {
+            "soundcloud": "https://soundcloud.com/karlkmusic/karlk-afrique-original-mix",
+            "youtube": "https://www.youtube.com/watch?v=qoO0wR4B-zg"
+          },
+          "thumbnail": "2013_colors.jpg",
+          "title": "Colors of Africa"
+        }
+      ]
     }
   ],
   "music_videos": [
