@@ -76,7 +76,21 @@
           "title": "Colors of Africa"
         }
       ]
-    }
+    },
+{
+      "year": 2013,
+      "tracks": [
+        {
+          "artist": "Karlk",
+          "links": {
+            "soundcloud": "https://soundcloud.com/karlkmusic/karlk-joy-and-sadness-original",
+            "youtube": "https://www.youtube.com/watch?v=zHRGXgE84Fo"
+          },
+          "thumbnail": "2013_joysadness.jpg",
+          "title": "Joy and Sadness"
+        }
+      ]
+    },
   ],
   "music_videos": [
     {
