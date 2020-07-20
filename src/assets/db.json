@@ -83,6 +83,51 @@
           },
           "thumbnail": "2013_joysadness.jpg",
           "title": "Joy and Sadness"
+        },
+        {
+          "artist": "Karlk & Efix",
+          "links": {
+            "soundcloud": "https://soundcloud.com/efixmusic/efix-change-the-world",
+            "youtube": "https://www.youtube.com/watch?v=KHmH2oIzCFA"
+          },
+          "thumbnail": "2013_change.jpg",
+          "title": "Change the World"
+        },
+         {
+          "artist": "Fauve",
+          "links": {
+            "soundcloud": "https://soundcloud.com/karlkmusic/fauve-kan-karlk-edit",
+            "youtube": "https://www.youtube.com/watch?v=s_3bOz_8iVs"
+          },
+          "thumbnail": "2013_fauve.jpg",
+          "title": "Kané (Karlk Edit)"
+        },
+        {
+          "artist": "Jakubi",
+          "links": {
+            "soundcloud": "https://soundcloud.com/karlkmusic/karlk-joy-and-sadness-original",
+            "youtube": "https://www.youtube.com/watch?v=brM-fpfVAkM"
+          },
+          "thumbnail": "2013_jakubi.jpg",
+          "title": "Can't Afford it All (Karlk Edit)"
+        },
+        {
+          "artist": "Jamie N. Commons",
+          "links": {
+            "soundcloud": "https://soundcloud.com/karlkmusic/lead-me-home-jamie-n-commons",
+            "youtube": "https://www.youtube.com/watch?v=8viMQtTyaSo"
+          },
+          "thumbnail": "2013_jamie.jpg",
+          "title": "Lead me Home (Karlk Edit)"
+        },
+        {
+          "artist": "La Yegros",
+          "links": {
+            "soundcloud": "https://soundcloud.com/karlkmusic/la-yegros-viene-de-mi-karlk",
+            "youtube": "https://www.youtube.com/watch?v=tJMq7FzXBMw"
+          },
+          "thumbnail": "2013_viene.jpg",
+          "title": "Viene de Mi (Karlk Edit)"
         }
       ]
     }
