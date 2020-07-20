@@ -64,6 +64,61 @@
       ]
     },
     {
+      "year": 2014,
+      "tracks": [
+        {
+          "artist": "Karlk & Ofenbach",
+          "links": {
+            "amazonmusic": "https://www.amazon.fr/What-I-Want-KarlK-Ofenbach/dp/B00SZJUKOO",
+            "applemusic": "https://music.apple.com/fr/album/what-i-want-single/963125634",
+            "deezer": "https://www.deezer.com/fr/album/9599884?app_id=100023",
+            "googleplay": "https://play.google.com/store/music/album/Ofenbach_KarlK_What_I_Want?id=Bgordaycdb4q3wgsaz7dtaglpbe&hl=fr",
+            "soundcloud": "https://soundcloud.com/karlkmusic/karlk-ofenbach-what-i-want",
+            "youtube": "https://www.youtube.com/watch?v=FRVZ_1GX5G8",
+            "spotify": "https://open.spotify.com/track/5GqEQyvh2C3clTVKcRUTxV?si=Az3W3HfzS4CkwVtft-5pRg"
+          },
+          "thumbnail": "2014_what.jpg",
+          "title": "What I Want"
+        },
+        {
+          "artist": "Hindi Zahra",
+          "links": {
+            "youtube": "https://www.youtube.com/watch?v=bDy3dxYiRqg",
+            "soundcloud": "https://soundcloud.com/karlkmusic/hindi-zahra-stand-up-karlk-edit"
+          },
+          "thumbnail": "2014_hindi.jpg",
+          "title": "Stand Up (Karlk Edit)"
+        },
+        {
+          "artist": "Flume",
+          "links": {
+            "youtube": "https://www.youtube.com/watch?v=LRD5Sj4vp5o",
+            "soundcloud": "https://soundcloud.com/maxliesemusic/flume-sleepless-feat-lee-fields-max-liese-karlk-remix"
+          },
+          "thumbnail": "2014_flume.jpg",
+          "title": "Sleepless Feat. Lee Fields (Max Liese & KarlK Remix)"
+        },
+        {
+          "artist": "Ellie Goulding",
+          "links": {
+            "youtube": "https://www.youtube.com/watch?v=rSLY69caMYo",
+            "soundcloud": "https://soundcloud.com/karlkmusic/ellie-goulding-burn-karlk"
+          },
+          "thumbnail": "2014_burn.jpg",
+          "title": "Burn (Karlk Remix)"
+        },
+        {
+          "artist": "Vieux Farka Touré",
+          "links": {
+            "youtube": "https://www.youtube.com/watch?v=odC9Hz9_v3Y",
+            "soundcloud": "https://soundcloud.com/karlkmusic/vieux-farka-tour-ana-karlk"
+          },
+          "thumbnail": "2014_vieux.jpg",
+          "title": "Ana (Karlk Edit)"
+        }
+      ]
+    },
+    {
       "year": 2013,
       "tracks": [
         {
