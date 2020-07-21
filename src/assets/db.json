@@ -19,9 +19,55 @@
         {
           "artist": "Karlk & Sn4tch",
           "links": {
-            "youtube": "https://www.youtube.com/watch?v=6l-IO2O6FDc"
+            "amazonmusic": "https://www.amazon.com/Esperanza-Radio-Edit/dp/B076661P1H/ref=sr_1_1?dchild=1&keywords=karlk+esperanza&qid=1595346611&s=dmusic&sr=1-1",
+            "applemusic": "https://music.apple.com/fr/album/esperanza-radio-edit/1293115485?i=1293115859&uo=4&app=music",
+            "deezer": "https://www.deezer.com/track/129913624",
+            "soundcloud": "https://soundcloud.com/karlkmusic/esperenza",
+            "youtube": "https://www.youtube.com/watch?v=6l-IO2O6FDc",
+            "spotify": "https://open.spotify.com/track/0oznZRix2u8HJnlqBiRSBU"
           },
+          "thumbnail": "2016_esperanza.jpg",
           "title": "Esperanza"
+        },
+        {
+          "artist": "Rodrigo Amarante",
+          "links": {
+            "applemusic": "https://music.apple.com/fr/album/tuyo-karlk-unofficial-remix-rodrigo-amarante-single/1398137422",
+            "soundcloud": "https://soundcloud.com/karlkmusic/rodrigo-amarante-tuyo-karlk-rework",
+            "youtube": "https://www.youtube.com/watch?v=JTpW1eCTg1s"
+          },
+          "thumbnail": "2016_tuyo.jpg",
+          "title": "Tuyo (Karlk Edit)"
+        },
+        {
+          "artist": "Andy Palacio",
+          "links": {
+            "soundcloud": "https://soundcloud.com/karlkmusic/andy-palacio-watina-karlk-edit",
+            "youtube": "https://www.youtube.com/watch?v=SVtFiNr8Y5U"
+          },
+          "thumbnail": "2016_andy.jpg",
+          "title": "Watina (Karlk Edit)"
+        },
+        {
+          "artist": "Mishka",
+          "links": {
+            "soundcloud": "https://soundcloud.com/karlkmusic/mishka-coastline-journey-karlk-edition",
+            "youtube": "https://www.youtube.com/watch?v=KATQD019a0A"
+          },
+          "thumbnail": "2016_mishka.jpg",
+          "title": "Coastline Journey (Karlk Edit)"
+        },
+        {
+          "artist": "Karlk",
+          "links": {
+            "amazonmusic": "https://www.amazon.com/Make-Me-Alive-KARLK-Remix/dp/B07M7XQVQ1",
+            "applemusic": "https://music.apple.com/fr/album/make-me-alive/1449300207",
+            "deezer": "https://www.deezer.com/track/616480452?utm_source=deezer&utm_content=track-616480452&utm_term=2019092602_1595344588&utm_medium=web",
+            "youtube": "https://www.youtube.com/watch?v=G8NS5_xSAx4",
+            "spotify": "https://open.spotify.com/track/3YS8DkAnTdp9vF2PS6sBmo?si=4_d3f-xnSHe78XnpluELsw"
+          },
+          "thumbnail": "2016_makemealive.jpg",
+          "title": "Make Me Alive (Karlk Remix)"
         }
       ]
     },
