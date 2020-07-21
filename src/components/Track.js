@@ -6,7 +6,6 @@ import {
   faAmazon,
   faApple,
   faDeezer,
-  faGooglePlay,
   faSoundcloud,
   faSpotify,
   faYoutube
@@ -19,12 +18,11 @@ const PLATFORMS_TO_ICON = {
   amazonmusic: faAmazon,
   applemusic: faApple,
   deezer: faDeezer,
-  googleplay: faGooglePlay,
   soundcloud: faSoundcloud,
   spotify: faSpotify,
   youtube: faYoutube
 }
-const PLATFORM_ORDER = ['spotify', 'youtube', 'applemusic', 'soundcloud', 'deezer', 'googleplay', 'amazonmusic']
+const PLATFORM_ORDER = ['spotify', 'youtube', 'applemusic', 'soundcloud', 'deezer', 'amazonmusic']
 
 const Track = props => {
   const { active, track, onClick } = props
