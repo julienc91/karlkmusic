@@ -1,6 +1,37 @@
 {
   "discography": [
     {
+      "year": 2018,
+      "tracks": [
+        {
+             "artist": "Karlk",
+          "links": {
+            "amazonmusic": "https://www.amazon.com/Persian-Karlk/dp/B07BN4PQ3Z",
+            "applemusic": "https://itunes.apple.com/us/album/persian-single/1362776957?uo=4&app=music",
+            "deezer": "https://www.deezer.com/track/476579532",
+            "soundcloud": "https://soundcloud.com/karlkmusic/persian",
+            "youtube": "https://www.youtube.com/watch?v=JJFOb9VMpl4",
+            "spotify": "https://open.spotify.com/album/0GKBDN7QeXi1ksmSUzeLe1?si=rP-NsYDGQ-OJFXaEAyDphQ"
+          },
+          "thumbnail": "2018_persian.jpg",
+          "title": "Persian"
+        },
+        {
+          "artist": "Karlk",
+          "links": {
+            "amazonmusic": "https://www.amazon.com/gp/product/B07F8JMPP4",
+            "applemusic": "https://itunes.apple.com/us/album/niespra-single/1407542617?app=apple%20music&ign-mpt=uo%3D4",
+            "deezer": "https://www.deezer.com/track/523835832",
+            "soundcloud": "https://soundcloud.com/karlkmusic/karlk-niespra",
+            "youtube": "https://www.youtube.com/watch?v=TAifNZb5g9c",
+            "spotify": "https://open.spotify.com/track/0ZghlwCE4UtTpbfkXvr5nY"
+          },
+          "thumbnail": "2018_niespra.jpg",
+          "title": "Niespra"
+        }
+      ]
+    },
+    {
       "year": 2017,
       "tracks": [
         {
