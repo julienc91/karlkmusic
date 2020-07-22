@@ -1,6 +1,40 @@
 {
   "discography": [
     {
+      "year": 2019,
+      "tracks": [
+        {
+             "artist": "Karlk",
+          "links": {
+            "amazonmusic": "https://www.amazon.com/dp/B085RQ21XX?tag=ton08-20&linkCode=osi&th=1&psc=1",
+            "deezer": "https://www.deezer.com/track/740834272",
+            "soundcloud": "https://soundcloud.com/karlkmusic/karlk-yaahooaska-doroo",
+            "youtube": "https://www.youtube.com/watch?v=aLwMq1DRpF8",
+            "spotify": "https://open.spotify.com/track/5QYRKQbGyKjiwG774x6dHj"
+          },
+          "thumbnail": "2019_doroo.jpg",
+          "title": "Doroo"
+        },
+        {
+          "artist": "Angelique Kidjo",
+          "links": {
+            "soundcloud": "https://soundcloud.com/karlkmusic/angelique-kidjo-la-vida-es-un-carnaval-karlk-remix",
+            "youtube": "https://www.youtube.com/watch?v=jk1PYCopkBo"
+          },
+          "thumbnail": "2019_kidjo.jpg",
+          "title": "La Vida Es Un Carnaval (Karlk Remix)"
+        },
+        {
+          "artist": "Nick Cave And The Bad Seeds - Red Right Hand",
+          "links": {
+            "youtube": "https://www.youtube.com/watch?v=J-risAtXQE8"
+          },
+          "thumbnail": "2019_peaky.jpg",
+          "title": "Red Right Hand (Karlk Remix)"
+        }
+      ]
+    },
+    {
       "year": 2018,
       "tracks": [
         {
