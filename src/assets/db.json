@@ -1,8 +1,74 @@
 {
   "discography": [
     {
+      "year": 2017,
+      "tracks": [
+        {
+             "artist": "Karlk",
+          "links": {
+            "amazonmusic": "https://www.amazon.com/Crossroads-Karlk/dp/B07666G99J",
+            "applemusic": "https://itunes.apple.com/fr/album/crossroads/id1238217369",
+            "deezer": "http://www.deezer.com/album/41875731?utm_source=deezer&utm_content=album-41875731&utm_term=76214771_1495755426&utm_medium=web",
+            "soundcloud": "https://soundcloud.com/karlkmusic/sets/crossroads-album",
+            "youtube": "https://www.youtube.com/watch?v=G5WVnLZoKFs&list=PL7JMD0IaMGe6YiueNjDr6_hiQMksDCJ4O",
+            "spotify": "https://open.spotify.com/album/3LedA79cMnK3Zct3xVEmtb"
+          },
+          "thumbnail": "2017_crossroads.jpg",
+          "title": "Crossroads (Album)"
+        },
+        {
+          "artist": "Nicola Cruz",
+          "links": {
+            "applemusic": "https://music.apple.com/fr/album/the-hanging-tree-karlk-remix/1444286453?i=1444286614&l=en",
+            "deezer": "https://www.deezer.com/track/97796598?utm_source=deezer&utm_content=track-97796598&utm_term=2019092602_1595311995&utm_medium=web",
+            "soundcloud": "https://soundcloud.com/blanketsoff/the-hanging-tree-karlk-remix",
+            "youtube": "https://www.youtube.com/watch?v=8rrlv9qvbZA",
+            "spotify": "https://open.spotify.com/track/3ZKdJzq25Kov1zaRXQGvVy?si=X5Pkw389TkG6R6bnBY133Q"
+          },
+          "thumbnail": "2017_folha.jpg",
+          "title": "Folha de Jurema (Karlk Edit)"
+        },
+        {
+          "artist": "Hollow Coves",
+          "links": {
+            "soundcloud": "https://soundcloud.com/karlkmusic/hollow-caves-coastline-karlk-edit",
+            "youtube": "https://www.youtube.com/watch?v=m9X477J7qhQ"
+          },
+          "thumbnail": "2017_hollow.jpg",
+          "title": "Coastline (Karlk Edit)"
+        },
+        {
+          "artist": "Napkey",
+          "links": {
+            "amazonmusic": "https://music.amazon.fr/albums/B088PNLYS7?trackAsin=B088PP7B6L&ref=dm_sh_5dc0-b996-dmcp-e4ca-c3687&musicTerritory=FR&marketplaceId=A13V1IB3VIYZZH",
+            "applemusic": "https://music.apple.com/fr/album/last-thoughts-remixes-single/1238117577",
+            "deezer": "https://www.deezer.com/track/963271772?utm_source=deezer&utm_content=track-963271772&utm_term=2019092602_1595429597&utm_medium=web",
+            "soundcloud": "https://soundcloud.com/sidekick-music/napkey-last-thoughts-karlk-remix",
+            "youtube": "https://www.youtube.com/watch?v=ocpp_8FO5Dk",
+            "spotify": "https://open.spotify.com/track/15WbXitewsTnJvtGcIbcjM?si=qlKQooZAQgax6d0SYtXBZA"
+          },
+          "thumbnail": "2017_napkey.jpg",
+          "title": "Last Thoughts (Karlk Remix)"
+        },
+        {
+          "artist": "Aroze & Karlk",
+          "links": {
+            "amazonmusic": "https://www.amazon.fr/dp/B084C5FCXT/ref=pm_ws_tlw_trk10",
+            "applemusic": "https://music.apple.com/fr/album/echoes-of-celtic-shadows/1496866125",
+            "deezer": "https://www.deezer.com/track/862823062?utm_source=deezer&utm_content=track-862823062&utm_term=2019092602_1595430247&utm_medium=web",
+            "soundcloud": "https://soundcloud.com/aroze/aroze-karlk-ti-credo-feat-sacha",
+            "youtube": "https://www.youtube.com/watch?v=YWgySvZmiH8",
+            "spotify": "https://open.spotify.com/track/627f4tERIYrvcX2C7nEg5s"
+          },
+          "thumbnail": "2017_aroze.jpg",
+          "title": "Ti Credo (feat. Sacha)"
+        }
+      ]
+    },
+    {
       "year": 2016,
       "tracks": [
+        
         {
           "artist": "Karlk",
           "links": {
