@@ -1,10 +1,10 @@
 {
   "discography": [
-   {
+    {
       "year": 2020,
       "tracks": [
         {
-             "artist": "Karlk",
+          "artist": "Karlk",
           "links": {
             "soundcloud": "https://soundcloud.com/karlkmusic"
           },
@@ -17,7 +17,7 @@
       "year": 2019,
       "tracks": [
         {
-             "artist": "Karlk",
+          "artist": "Karlk",
           "links": {
             "amazonmusic": "https://www.amazon.com/dp/B085RQ21XX?tag=ton08-20&linkCode=osi&th=1&psc=1",
             "deezer": "https://www.deezer.com/track/740834272",
@@ -51,7 +51,7 @@
       "year": 2018,
       "tracks": [
         {
-             "artist": "Karlk",
+          "artist": "Karlk",
           "links": {
             "amazonmusic": "https://www.amazon.com/Persian-Karlk/dp/B07BN4PQ3Z",
             "applemusic": "https://itunes.apple.com/us/album/persian-single/1362776957?uo=4&app=music",
@@ -82,7 +82,7 @@
       "year": 2017,
       "tracks": [
         {
-             "artist": "Karlk",
+          "artist": "Karlk",
           "links": {
             "amazonmusic": "https://www.amazon.com/Crossroads-Karlk/dp/B07666G99J",
             "applemusic": "https://itunes.apple.com/fr/album/crossroads/id1238217369",
@@ -146,7 +146,6 @@
     {
       "year": 2016,
       "tracks": [
-        
         {
           "artist": "Karlk",
           "links": {
@@ -219,7 +218,7 @@
       "year": 2015,
       "tracks": [
         {
-             "artist": "Karlk",
+          "artist": "Karlk",
           "links": {
             "amazonmusic": "https://www.amazon.fr/Jeff-KarlK-feat-GuitK/dp/B0194GLOKU",
             "applemusic": "https://music.apple.com/fr/album/jeff-feat-guitk/1065520787?i=1065520790",
@@ -349,7 +348,7 @@
           "thumbnail": "2013_change.jpg",
           "title": "Change the World"
         },
-         {
+        {
           "artist": "Fauve",
           "links": {
             "soundcloud": "https://soundcloud.com/karlkmusic/fauve-kan-karlk-edit",
@@ -403,4 +402,3 @@
     }
   ]
 }
-
