@@ -1,6 +1,6 @@
 import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faInstagram, faFacebook, faTwitter, faSpotify, faItunes, faYoutube, faSoundcloud, faTiktok, faDeezer } from '@fortawesome/free-brands-svg-icons'
+import { faInstagram, faFacebook, faTwitter, faSpotify, faItunes, faYoutube, faSoundcloud, faBandcamp, faTiktok, faDeezer } from '@fortawesome/free-brands-svg-icons'
 import './Footer.scss'
 
 const Footer = () => {
@@ -13,6 +13,7 @@ const Footer = () => {
       <a href='https://itunes.apple.com/fr/artist/karlk/946907126'><FontAwesomeIcon icon={faItunes} /></a>
       <a href='https://www.youtube.com/c/Karlkmusic'><FontAwesomeIcon icon={faYoutube} /></a>
       <a href='https://soundcloud.com/karlkmusic'><FontAwesomeIcon icon={faSoundcloud} /></a>
+      <a href='https://karlkmusic.bandcamp.com/'><FontAwesomeIcon icon={faBandcamp} /></a>
       <a href='https://www.tiktok.com/@karlkmusic'><FontAwesomeIcon icon={faTiktok} /></a>
       <a href='https://bit.ly/2GjnbBG'><FontAwesomeIcon icon={faDeezer} /></a>
     </footer>
