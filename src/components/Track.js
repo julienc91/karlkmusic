@@ -5,6 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
   faAmazon,
   faApple,
+  faBandcamp,
   faDeezer,
   faSoundcloud,
   faSpotify,
@@ -17,12 +18,13 @@ const assets = require.context('../assets/images/thumbnails/')
 const PLATFORMS_TO_ICON = {
   amazonmusic: faAmazon,
   applemusic: faApple,
+  bandcamp: faBandcamp,
   deezer: faDeezer,
   soundcloud: faSoundcloud,
   spotify: faSpotify,
   youtube: faYoutube
 }
-const PLATFORM_ORDER = ['spotify', 'youtube', 'applemusic', 'soundcloud', 'deezer', 'amazonmusic']
+const PLATFORM_ORDER = ['spotify', 'youtube', 'applemusic', 'soundcloud', 'bandcamp', 'deezer', 'amazonmusic']
 
 const Track = props => {
   const { active, track, onClick } = props
