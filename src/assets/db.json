@@ -1,5 +1,18 @@
 {
   "discography": [
+   {
+      "year": 2020,
+      "tracks": [
+        {
+             "artist": "Karlk",
+          "links": {
+            "soundcloud": "https://soundcloud.com/karlkmusic"
+          },
+          "thumbnail": "2020_flaminglies.jpg",
+          "title": "Flaming Lies (feat. GuitK)"
+        }
+      ]
+    },
     {
       "year": 2019,
       "tracks": [
