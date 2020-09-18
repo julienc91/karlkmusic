@@ -6,7 +6,13 @@
         {
           "artist": "Karlk",
           "links": {
-            "soundcloud": "https://soundcloud.com/karlkmusic"
+            "amazonmusic": "https://www.amazon.com/dp/B08HNHJVWT?tag=ton08-20&linkCode=osi&th=1&psc=1",
+            "applemusic": "https://music.apple.com/fr/album/flaming-lies-feat-guitk/1530969452?i=1530969454&uo=4&app=music&ct=594623&at=1001lbRT",
+            "bandcamp": "https://karlkmusic.bandcamp.com/track/karlk-flaming-lies-feat-guitk",
+            "deezer": "https://www.deezer.com/en/track/1074176452",
+            "soundcloud": "https://soundcloud.com/karlkmusic/flaminglies",
+            "youtube": "https://www.youtube.com/watch?v=bYZjMo7DqIE",
+            "spotify": "https://open.spotify.com/album/4c3rZcfyDc6Jb0VotjC36S?si=vmuhvZNnSkGKYooDqfSRWg"
           },
           "thumbnail": "2020_flaminglies.jpg",
           "title": "Flaming Lies (feat. GuitK)"
@@ -21,6 +27,7 @@
           "links": {
             "amazonmusic": "https://www.amazon.com/dp/B085RQ21XX?tag=ton08-20&linkCode=osi&th=1&psc=1",
             "deezer": "https://www.deezer.com/track/740834272",
+            "bandcamp": "https://karlkmusic.bandcamp.com/track/doroo-feat-yaahooaska",
             "soundcloud": "https://soundcloud.com/karlkmusic/karlk-yaahooaska-doroo",
             "youtube": "https://www.youtube.com/watch?v=aLwMq1DRpF8",
             "spotify": "https://open.spotify.com/track/5QYRKQbGyKjiwG774x6dHj"
@@ -55,6 +62,7 @@
           "links": {
             "amazonmusic": "https://www.amazon.com/Persian-Karlk/dp/B07BN4PQ3Z",
             "applemusic": "https://itunes.apple.com/us/album/persian-single/1362776957?uo=4&app=music",
+            "bandcamp": "https://karlkmusic.bandcamp.com/track/persian",
             "deezer": "https://www.deezer.com/track/476579532",
             "soundcloud": "https://soundcloud.com/karlkmusic/persian",
             "youtube": "https://www.youtube.com/watch?v=JJFOb9VMpl4",
@@ -68,6 +76,7 @@
           "links": {
             "amazonmusic": "https://www.amazon.com/gp/product/B07F8JMPP4",
             "applemusic": "https://itunes.apple.com/us/album/niespra-single/1407542617?app=apple%20music&ign-mpt=uo%3D4",
+            "bandcamp": "https://karlkmusic.bandcamp.com/track/niespra",
             "deezer": "https://www.deezer.com/track/523835832",
             "soundcloud": "https://soundcloud.com/karlkmusic/karlk-niespra",
             "youtube": "https://www.youtube.com/watch?v=TAifNZb5g9c",
