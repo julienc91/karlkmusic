@@ -1,0 +1,20 @@
+export const fr = {
+  "Biography.title": "Biographie",
+  "Contact.title": "Contact",
+  "Contact.general": "Général\u00A0:",
+  "Contact.license": "Licence/Sync\u00A0:",
+  "Contact.booking": "Booking\u00A0:",
+  "Discography.title": "Discographie",
+  "Global.title": "Karlk Music - Composition, Production, Musique à l'image",
+  "Home.title": "Karlk Music",
+  "Home.subtitle": "Composition, Production, Musique à l'image",
+  "Menu.biography": "Biographie",
+  "Menu.contact": "Contact",
+  "Menu.discography": "Discographie",
+  "Menu.home": "Accueil",
+  "Menu.music_videos": "Vidéoclips",
+  "Menu.soundtracks": "Bandes-sons",
+  "MusicVideos.title": "Vidéoclips",
+  "Soundtracks.title": "Bandes-sons",
+  "Track.availability": "Disponible sur\u00A0:"
+}
