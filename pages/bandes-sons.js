@@ -24,7 +24,7 @@ const Soundtracks = ({ soundtracks, preview }) => {
 
 export default Soundtracks
 
-export const getStaticProps = async ({ locale, preview }) => {
+export const getStaticProps = async ({ locale, preview = false }) => {
   const soundtracks = await getSoundtracks(locale, preview)
   return {
     props: {

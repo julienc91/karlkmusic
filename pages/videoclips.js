@@ -24,7 +24,7 @@ const MusicVideos = ({ musicVideos, preview }) => {
 
 export default MusicVideos
 
-export const getStaticProps = async ({ locale, preview }) => {
+export const getStaticProps = async ({ locale, preview = false }) => {
   const musicVideos = await getMusicVideos(locale, preview)
   return {
     props: {

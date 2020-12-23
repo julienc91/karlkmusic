@@ -29,3 +29,11 @@ const Contact = ({ preview }) => {
 }
 
 export default Contact
+
+export const getStaticProps = async ({ preview = false }) => {
+  return {
+    props: {
+      preview
+    }
+  }
+}

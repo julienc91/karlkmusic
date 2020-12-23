@@ -45,7 +45,7 @@ const Discography = ({ discography, preview }) => {
 
 export default Discography
 
-export const getStaticProps = async ({ locale, preview }) => {
+export const getStaticProps = async ({ locale, preview = false }) => {
   const discography = await getDiscography(locale, preview)
   return {
     props: {

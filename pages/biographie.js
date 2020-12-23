@@ -23,7 +23,7 @@ const Biography = ({ biography, preview }) => {
 
 export default Biography
 
-export const getStaticProps = async ({ locale, preview }) => {
+export const getStaticProps = async ({ locale, preview = false }) => {
   const biography = await getBiography(locale, preview)
   return {
     props: {
