@@ -1,8 +1,10 @@
 import React, { useState } from 'react'
+import PropTypes from 'prop-types'
 import { useIntl } from 'react-intl'
 import Layout from '../components/layout'
 import TrackList from '../components/trackList'
 import { getDiscography } from '../lib/api'
+import { TypeTrack } from '../types'
 
 const Discography = ({ discography, preview }) => {
   const { formatMessage } = useIntl()
@@ -41,6 +43,11 @@ const Discography = ({ discography, preview }) => {
       </div>
     </Layout>
   )
+}
+
+Discography.propTypes = {
+  discography: PropTypes.arrayOf(TypeTrack).isRequired,
+  preview: PropTypes.bool
 }
 
 export default Discography

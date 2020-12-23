@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
+import PropTypes from 'prop-types'
 import { useIntl } from 'react-intl'
 
 const pages = [
@@ -35,6 +36,10 @@ const Menu = ({ preview }) => {
       </ul>
     </nav>
   )
+}
+
+Menu.propTypes = {
+  preview: PropTypes.bool
 }
 
 export default Menu

@@ -1,4 +1,5 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 import { useIntl } from 'react-intl'
 import Layout from '../components/layout'
 
@@ -13,6 +14,10 @@ const Index = ({ preview }) => {
       </div>
     </Layout>
   )
+}
+
+Index.propTypes = {
+  preview: PropTypes.bool
 }
 
 export default Index

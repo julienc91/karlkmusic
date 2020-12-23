@@ -1,5 +1,14 @@
 import PropTypes from 'prop-types'
 
+export const TypeBiography = PropTypes.shape({
+  content: PropTypes.shape({
+    json: PropTypes.object
+  }),
+  image: PropTypes.shape({
+    url: PropTypes.string
+  })
+})
+
 export const TypeTrack = PropTypes.shape({
   artist: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,

@@ -1,5 +1,6 @@
 import React from 'react'
 import Head from 'next/head'
+import PropTypes from 'prop-types'
 import { useIntl } from 'react-intl'
 import Footer from '../components/footer'
 import Menu from '../components/menu'
@@ -19,6 +20,11 @@ const Layout = ({ children, preview }) => {
       <Footer />
     </>
   )
+}
+
+Layout.propTypes = {
+  children: PropTypes.oneOfType([PropTypes.node, PropTypes.arrayOf(PropTypes.node)]).isRequired,
+  preview: PropTypes.bool
 }
 
 export default Layout

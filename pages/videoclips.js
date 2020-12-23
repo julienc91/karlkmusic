@@ -1,8 +1,10 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 import { useIntl } from 'react-intl'
 import Layout from '../components/layout'
 import Video from '../components/video'
 import { getMusicVideos } from '../lib/api'
+import { TypeVideo } from '../types'
 
 const MusicVideos = ({ musicVideos, preview }) => {
   const { formatMessage } = useIntl()
@@ -20,6 +22,11 @@ const MusicVideos = ({ musicVideos, preview }) => {
       </div>
     </Layout>
   )
+}
+
+MusicVideos.propTypes = {
+  musicVideos: PropTypes.arrayOf(TypeVideo).isRequired,
+  preview: PropTypes.bool
 }
 
 export default MusicVideos

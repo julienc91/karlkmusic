@@ -1,8 +1,10 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 import { documentToReactComponents } from '@contentful/rich-text-react-renderer'
 import { useIntl } from 'react-intl'
 import Layout from '../components/layout'
 import { getBiography } from '../lib/api'
+import { TypeBiography } from '../types'
 
 const Biography = ({ biography, preview }) => {
   const { formatMessage } = useIntl()
@@ -19,6 +21,11 @@ const Biography = ({ biography, preview }) => {
       </div>
     </Layout>
   )
+}
+
+Biography.propTypes = {
+  biography: TypeBiography.isRequired,
+  preview: PropTypes.bool
 }
 
 export default Biography

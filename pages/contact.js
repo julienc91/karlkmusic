@@ -1,6 +1,7 @@
 import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faLinkedin } from '@fortawesome/free-brands-svg-icons'
+import PropTypes from 'prop-types'
 import { useIntl } from 'react-intl'
 import Layout from '../components/layout'
 
@@ -26,6 +27,10 @@ const Contact = ({ preview }) => {
       </div>
     </Layout>
   )
+}
+
+Contact.propTypes = {
+  preview: PropTypes.bool
 }
 
 export default Contact
