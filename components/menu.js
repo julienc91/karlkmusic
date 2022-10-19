@@ -22,11 +22,6 @@ const Menu = ({ preview }) => {
 
   return (
     <nav className={preview ? 'preview' : ''}>
-      <div className='link-home'>
-        <Link href={url}>
-          <img src={img} alt={t('Menu.home')} />
-        </Link>
-      </div>
       <ul className='links'>
         {pages.map(({ name, url }) => (
           <li className={'link-item' + (asPath === url ? ' active' : '')} key={name}>

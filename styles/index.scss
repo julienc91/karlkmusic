@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;600&display=swap');
 
 @import './globals';
 
 // reset and setup
 html {
   color: $oil;
-  font-family: Lato, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 18px;
   font-weight: 300;
 
@@ -110,23 +110,11 @@ nav {
     width: 100%;
   }
 
-  .link-home {
-    flex-shrink: 0;
-
-    img {
-      height: 40px;
-
-      @media screen and (max-width: 800px) {
-        height: 30px;
-      }
-    }
-  }
-
   .links {
     align-items: center;
     display: flex;
     flex-flow: row wrap;
-    justify-content: flex-end;
+    justify-content: center;
     width: 100%;
   }
 
@@ -138,19 +126,13 @@ nav {
       font-size: .95rem;
       padding: 0 8px 6px;
     }
-  }
 
-  .link-item a::after {
-    border-bottom: 1px solid $oil;
-    content: '';
-    display: block;
-    transform: scaleX(0);
-    transition: transform 250ms ease-in-out;
-  }
-
-  .link-item:hover a::after,
-  .link-item.active a::after {
-    transform: scaleX(1);
+    a {
+      transition: color 0.2s;
+      &:hover {
+        color: $dark-grey;
+      }
+    }
   }
 
   &.preview {
