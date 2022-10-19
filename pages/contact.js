@@ -1,6 +1,5 @@
 import React from 'react'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faLinkedin } from '@fortawesome/free-brands-svg-icons'
+import { FaLinkedin } from 'react-icons/fa'
 import PropTypes from 'prop-types'
 import { useIntl } from 'react-intl'
 import Layout from '../components/layout'
@@ -19,7 +18,7 @@ const Contact = ({ preview }) => {
           <div>{t('Contact.booking')} <a href='mailto:booking@karlkmusic.com'>booking@karlkmusic.com</a></div>
           <div>
             <a href='https://www.linkedin.com/in/charles-perrono/' target='_blank' rel='noopener noreferrer'>
-              <FontAwesomeIcon icon={faLinkedin} />
+              <FaLinkedin />
               charles-perrono
             </a>
           </div>

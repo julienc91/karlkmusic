@@ -1,26 +1,25 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
-  faAmazon,
-  faApple,
-  faBandcamp,
-  faDeezer,
-  faSoundcloud,
-  faSpotify,
-  faYoutube
-} from '@fortawesome/free-brands-svg-icons'
+  FaAmazon,
+  FaApple,
+  FaBandcamp,
+  FaDeezer,
+  FaSoundcloud,
+  FaSpotify,
+  FaYoutube
+} from 'react-icons/fa'
 import { useIntl } from 'react-intl'
 import { TypeTrack } from '../types'
 
 const PLATFORMS_TO_ICON = {
-  amazonMusic: faAmazon,
-  appleMusic: faApple,
-  bandcamp: faBandcamp,
-  deezer: faDeezer,
-  soundcloud: faSoundcloud,
-  spotify: faSpotify,
-  youtube: faYoutube
+  amazonMusic: <FaAmazon />,
+  appleMusic: <FaApple />,
+  bandcamp: <FaBandcamp />,
+  deezer: <FaDeezer />,
+  soundcloud: <FaSoundcloud />,
+  spotify: <FaSpotify />,
+  youtube: <FaYoutube />
 }
 const PLATFORM_ORDER = ['spotify', 'youtube', 'appleMusic', 'soundcloud', 'bandcamp', 'deezer', 'amazonMusic']
 
@@ -55,7 +54,7 @@ const Track = props => {
                       return (
                         <li key={platform}>
                           <a href={track[platform]} target='_blank' rel='noopener noreferrer'>
-                            <FontAwesomeIcon icon={PLATFORMS_TO_ICON[platform]} />
+                            {PLATFORMS_TO_ICON[platform]}
                           </a>
                         </li>
                       )
