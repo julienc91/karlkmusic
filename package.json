@@ -8,19 +8,19 @@
     "setup": "node ./contentful/setup.js $CONTENTFUL_SPACE_ID $CONTENTFUL_MANAGEMENT_TOKEN"
   },
   "dependencies": {
-    "@contentful/rich-text-react-renderer": "^15.12.1",
-    "next": "^14.2.10",
+    "@contentful/rich-text-react-renderer": "^16.0.0",
+    "next": "^15.0.3",
     "prop-types": "^15.7.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-icons": "^4.6.0",
-    "react-intl": "^5.10.9",
+    "react-icons": "^5.3.0",
+    "react-intl": "^6.8.7",
     "react-youtube": "^10.0.0"
   },
   "devDependencies": {
-    "eslint": "^8.25.0",
-    "eslint-config-next": "^12.1.6",
-    "prettier": "^2.6.2",
+    "eslint": "^9.14.0",
+    "eslint-config-next": "^15.0.03",
+    "prettier": "^3.3.3",
     "sass": "^1.52.1"
   },
   "license": "MIT"

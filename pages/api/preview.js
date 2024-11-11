@@ -1,4 +1,4 @@
-export default async (req, res) => {
+const preview =  async (req, res) => {
   if (req.query.secret !== process.env.NEXT_PUBLIC_CONTENTFUL_PREVIEW_ACCESS_TOKEN) {
     return res.status(401).json({ message: 'Invalid token' })
   }
@@ -13,3 +13,5 @@ export default async (req, res) => {
   // We don't redirect to req.query.slug as that might lead to open redirect vulnerabilities
   res.redirect(req.query.path)
 }
+
+export default preview

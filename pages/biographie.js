@@ -36,6 +36,7 @@ export const getStaticProps = async ({ locale, preview = false }) => {
     props: {
       biography,
       preview
-    }
+    },
+    revalidate: 300,
   }
 }

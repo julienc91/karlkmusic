@@ -58,6 +58,7 @@ export const getStaticProps = async ({ locale, preview = false }) => {
     props: {
       preview,
       discography
-    }
+    },
+    revalidate: 300,
   }
 }

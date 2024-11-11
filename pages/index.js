@@ -26,6 +26,7 @@ export const getStaticProps = async ({ preview = false }) => {
   return {
     props: {
       preview
-    }
+    },
+    revalidate: 300,
   }
 }
